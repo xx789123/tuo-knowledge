@@ -25,26 +25,54 @@
 - [Nielsen Norman Articles](https://www.nngroup.com/articles/) - UX研究文章
 - [UI Movement](https://uimovement.com/) - 动效设计灵感
 
-### 设计素材
-- [Unsplash](https://unsplash.com/) - 免费高清图片
-- [Pinterest](https://www.pinterest.com/) - 设计灵感收藏
-- [Behance](https://www.behance.net/) - 设计师作品集
-- [Dribbble](https://dribbble.com/) - UI设计作品
-- [Land Book](https://land-book.com/) - 网站设计案例
+## GitHub 开源UI组件库
 
-### 配色字体
-- [Coolors](https://coolors.co/) - 智能配色生成器
-- [Adobe Color](https://color.adobe.com/) - Adobe配色工具
-- [Google Fonts](https://fonts.google.com/) - 免费英文字体
-- [IconFont](https://www.iconfont.cn/) - 阿里巴巴图标库
-- [Phosphor Icons](https://phosphoricons.com/) - 开源图标库
-- [Heroicons](https://heroicons.com/) - Tailwind官方图标
+### Vue3 组件库
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - Vue资源大合集
+- [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) - Vue3资源集合
+- [struy-cn/awesome-vue-components](https://github.com/struy-cn/awesome-vue-components) - Vue3组件集锦
+- [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - vue3+element-plus后台管理模板
+- [Soybean Admin](https://github.com/hsl-git/soybean-admin) - 美丽的Vue3后台管理模板
+- [Pinx](https://github.com/vue-pinia-admin/pinx) - Vue3+Naive UI+Tailwind高级管理模板
 
-### Figma资源
-- [Figma UI Kits 2025](https://www.shadcndesign.com/blog/best-ui-kits-in-2025) - 最佳UI套件
-- [Frames X](https://framesx.io/) - 企业级Figma UI套件
-- [SegmentUI](https://segmentui.com/) - 移动+Web UI套件
-- [Clonify](https://www.figma.com/community/file/1380898172006947130) - 开源Figma UI套件
+### React 组件库
+- [shadcn/ui](https://github.com/shadcn-ui/ui) - copy-paste的React组件集
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - 无样式React组件原语
+- [clayui/clay](https://github.com/liferay/clay) - Liferay开源CSS框架
+
+### Element Plus生态
+- [awesome-element-plus](https://github.com/warmthsea/awesome-element-plus) - Element Plus资源集合
+- [v3-admin-vite](https://github.com/zclzone/v3-admin-vite) - Vue3+Element Plus管理后台模板
+- [arco-design/awesome-arco](https://github.com/arco-design/awesome-arco) - 字节arco-design资源
+
+### Naive UI生态
+- [naive-ui/awesome-naive](https://github.com/naive-ui/awesome-naive) - Naive UI资源集合
+- [Soybean Admin](https://github.com/hsl-git/soybean-admin) - 基于Naive UI的Vue3管理模板
+- [Dolphin Admin](https://github.com/zh-lx/awesome-naive) - 轻量级Naive UI管理模板
+
+### 设计系统
+- [bmoff/code-first-design](https://github.com/bmoff/code-first-design) - 组件驱动开发框架
+- [design-tokens](https://github.com/amzn/design-tokens) - Amazon设计令牌
+- [Spectrum](https://github.com/adobe/spectrum-web-components) - Adobe设计系统Web组件
+
+### Figma开源资源
+- [Figma Open Source Libraries](https://www.figma.com/community) - Figma官方开源社区
+- [Figma-Linux](https://github.com/Figma-Linux/figma-linux) - Linux上的Figma客户端
+
+## GitHub 设计工具
+
+### UI组件
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - 企业级React UI组件库 (100k+ stars)
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - Vue3组件库 (20k+ stars)
+- [naive-ui/naive-ui](https://github.com/naive-ui/naive-ui) - Vue3组件库 (15k+ stars)
+- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - Vue2/3 Material组件库 (38k+ stars)
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - React组件库 (33k+ stars)
+
+### 动画库
+- [motion](https://github.com/motiondivision/motion) - React动画库 (14k+ stars)
+- [ Anime.js](https://github.com/juliangarnier/anime) - JavaScript动画库 (55k+ stars)
+- [GSAP](https://github.com/greensock/GSAP) - 专业动画平台 (17k+ stars)
+- [lottie-web](https://github.com/airbnb/lottie-web) - AirBnB动画解决方案 (25k+ stars)
 
 ## 核心技能
 
@@ -76,45 +104,24 @@
 - 中：8px（卡片）
 - 大：12px（模态框）
 - 圆：9999px（头像）
-
-阴影：
-- sm: 0 1px 2px rgba(0,0,0,0.05)
-- md: 0 4px 6px rgba(0,0,0,0.1)
-- lg: 0 10px 15px rgba(0,0,0,0.1)
 ```
-
-### 响应式断点
-```
-移动端：< 640px
-平板：640px - 1024px
-桌面：1024px - 1280px
-大屏：> 1280px
-```
-
-### 动效设计原则
-- 持续时间：快速(150ms)、正常(250ms)、慢速(350ms)
-- 缓动曲线：ease-out（进入）、ease-in-out（过渡）
-- 页面切换：fade + slide，300ms
-- 按钮点击：scale(0.98)，100ms
-- 加载状态：骨架屏(spinner可接受)
 
 ## 工具推荐
 
 ### 设计工具
 - [Figma](https://figma.com/) - 协作设计工具（首选）
 - [Sketch](https://www.sketch.com/) - macOS设计工具
-- [Adobe XD](https://adobe.com/xd) - 体验设计工具
 - [Framer](https://www.framer.com/) - 交互原型
 
-### 标注工具
-- [Markify](https://markify.app/) - 设计稿标注
-- [Pixels](https://pixels.ai/) - 自动标注
-- [Zeplin](https://zeplin.io/) - 设计交接
-
 ### 配色工具
-- [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors) - Tailwind色谱
+- [Coolors](https://coolors.co/) - 智能配色生成器
+- [Adobe Color](https://color.adobe.com/) - Adobe配色工具
 - [Open Color](https://yeun.github.io/open-color/) - 开源配色
-- [CSS Gradient](https://cssgradient.io/) - 渐变生成
+
+### 图标
+- [IconFont](https://www.iconfont.cn/) - 阿里巴巴图标库
+- [Phosphor Icons](https://phosphoricons.com/) - 开源图标库
+- [Heroicons](https://heroicons.com/) - Tailwind官方图标
 
 ---
 *由坨坨维护 · 2026-04-15 · 更新*
