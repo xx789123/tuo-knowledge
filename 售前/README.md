@@ -28,6 +28,16 @@
 - [COSMIC规模估算](https://www.cosmic-sizing.org/) - 软件规模度量方法
 - [IFPUG功能点](https://www.ifpug.org/) - 功能点分析方法
 
+## GitHub 开源工具
+
+### 投标文档处理
+- [fwolf/fwlib](https://github.com/fwolf/fwlib) - 招投标术语标准化，bidding document术语库
+- [标书制作开源项目](https://github.com/topics/bidding-document) - 标书相关开源项目集合
+
+### 文档生成模板
+- [docuteam](https://github.com/docuteam) - 文档模板工具
+- [openoffice/document-templates](https://github.com/search?q=document+template+ chinese+tender) - 招标文档模板
+
 ## 核心技能
 
 ### 技术方案结构（完整大纲）
