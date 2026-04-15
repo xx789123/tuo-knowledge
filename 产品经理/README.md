@@ -27,6 +27,22 @@
 - [MoSCoW方法](https://www.productplan.com/glossary/moscow/) - 需求优先级
 - [Kano模型](https://www.productplan.com/glossary/kano-model/) - 用户满意度模型
 
+## GitHub 开源工具
+
+### PRD与产品管理
+- [blake-simpson/belmont](https://github.com/blake-simpson/belmont) - AI驱动的PRD管理工具，协调查看子agent阶段
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - 产品经理agent模板，含PRD模板和工作流
+- [shinpr/nautilus](https://github.com/shinpr/nautilus) - AI原生产品发现系统，连接假设验证和PRD
+
+### AI产品工具
+- [taskade/awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - AI生成UI设计工具清单(Galileo AI等)
+- [Chat2AnyLLM/awesome-claude-plugins](https://github.com/Chat2AnyLLM/awesome-claude-plugins) - PRD specialist插件等AI工具集合
+
+### 开源项目管理
+- [Plane](https://github.com/makeplane/plane) - 开源项目管理平台(Jira替代)
+- [GitLab](https://github.com/gitlabhq/gitlab) - DevSecOps平台含项目管理
+- [Metabase](https://github.com/metabase/metabase) - 嵌入式BI工具，数据驱动决策
+
 ## 核心技能
 
 ### PRD标准结构（2025版）
@@ -68,22 +84,9 @@
 ### 7.2 发布计划
 ```
 
-### 用户画像模板
-```
-姓名：[用户昵称]
-年龄：XX岁
-职业：[职业]
-目标：
-- [用户想要完成的主要目标]
-痛点：
-- [当前解决方案无法满足的需求]
-使用场景：
-- [何时、何地、如何使用产品]
-```
-
 ### RICE评分计算
 ```
-RICE = (Reach × Impact × Confidence) / Effort
+RICE = (Reach x Impact x Confidence) / Effort
 
 - Reach（触达）：一个季度内多少用户受影响
 - Impact（影响）：对用户指标的提升程度 (0.25/0.5/1/2/3)
